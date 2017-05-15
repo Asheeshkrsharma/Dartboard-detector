@@ -28,7 +28,7 @@ b. If the Euclidian distance b/w the centres of the two ROIs is $\leq$ a thresho
 
 if the logical AND of the two rules is true, then the detected ROI is considered to be a True positive.
 
-![alt text](https://github.com/Asheeshkrsharma/Particle-filter/blob/master/2.png "partice filter")
+![alt text](https://github.com/Asheeshkrsharma/Dartboard-detector/blob/master/3.png "partice filter")
 
 
-Path Planning using A* search  ![alt text](https://github.com/Asheeshkrsharma/Particle-filter/blob/master/1.png "A* search")
+![alt text](https://github.com/Asheeshkrsharma/Dartboard-detector/blob/master/4.png "A* search")
