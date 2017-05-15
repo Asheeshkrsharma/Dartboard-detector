@@ -1,8 +1,8 @@
 # Dartboard-detector
 
-##Instructions for running the program.
+Instructions for running the program.
 
-###Execute the following command to build the file:
+Execute the following command to build the file:
 
 1. bash buildDetection.sh DartboardDetector.cpp
 
